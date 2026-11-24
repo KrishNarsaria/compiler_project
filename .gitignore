@@ -1,0 +1,7 @@
+build/
+output/
+rvcc
+*.o
+*.run
+*.ir
+*.s
